@@ -1,1 +1,0 @@
-# Patterns-Bridge-Adapter-Facade
